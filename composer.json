@@ -1,0 +1,10 @@
+{
+    "name": "devgeniem/Inactive-Logout",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0+",
+    "homepage": "https://wordpress.org/plugins/inactive-logout/",
+    "description": "Protect your WordPress users’ sessions from shoulder surfers and snoopers!",
+    "extra": {
+      "installer-name": "inactive-logout"
+    }
+  }
