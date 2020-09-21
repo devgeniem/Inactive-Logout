@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-06 07:44+0000\n"
 "POT-Revision-Date: Sun Jan 29 2017 16:00:11 GMT+0545 (NPT)\n"
-"PO-Revision-Date: 2020-01-06 07:46+0000\n"
+"PO-Revision-Date: 2020-09-21 15:17+0300\n"
 "Language-Team: Finnish\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
@@ -18,11 +18,11 @@ msgstr ""
 "esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
 "esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
 "X-Loco-Target-Locale: en_US\n"
-"X-Generator: Loco https://localise.biz/\n"
+"X-Generator: Poedit 2.2.4\n"
 "Last-Translator: Deepen <dpen.connectify@gmail.com>\n"
 "Language: fi\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2\n"
 "X-Poedit-SearchPath-0: ..\n"
-"X-Loco-Version: 2.3.1; wp-5.3.2"
 
 #: views/tpl-inactive-logout-settings.php:10
 #: src/class-inactive-logout-admin-views.php:54
@@ -50,7 +50,7 @@ msgstr "Jatka sisäänkirjautuneena"
 
 #: views/tpl-inactive-logout-dialog.php:71
 msgid "Session Timeout"
-msgstr "Fillarillasta loppui vauhti kesken"
+msgstr "Istunnon aikakatkaisu"
 
 #: src/class-inactive-logout-main.php:308
 msgid "Configure"
@@ -116,8 +116,8 @@ msgstr ""
 #: src/class-inactive-logout-pointers.php:71
 msgid ""
 "Configure the idle timeout, user messages and other plugin and inactive "
-"sessions settings from <a href=\"options-general.php?page=inactive-logout\">"
-"Here</a>"
+"sessions settings from <a href=\"options-general.php?page=inactive-logout"
+"\">Here</a>"
 msgstr ""
 
 #: views/tabs/tpl-inactive-logout-advanced.php:18
